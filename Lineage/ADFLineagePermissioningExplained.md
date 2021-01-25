@@ -2,7 +2,7 @@
 
 Purview can not only scan different data source but also extract lineage by scanning the Azure Data Factory. What has been raised as a question many a times is whether the login that added ADF used by purview for authenticating and populating the lineage? The answer is an emphatic No! Before we go any further it is worth reviewing the Purview roles:
 
- ![](https://github.com/bjspeaks/Purview/tree/master/Images/Permissions.jpg)
+ ![](https://github.com/bjspeaks/Purview/blob/master/Images/Permissions.jpg)
  
 # How is this done?
 Once ADF has been registered successfully, the following will appear on the ADF registration screen.
@@ -14,7 +14,7 @@ When a Purview user registers an ADF to which he/she has access to, the followin
 
 a.	The ADF MSI gets added to Purview as purview data curator.
 
-![](https://github.com/bjspeaks/Purview/tree/master/Images/MSI.jpg) 
+![](https://github.com/bjspeaks/Purview/blob/master/Images/MSI.jpg) 
 
 b.	The ADF needs to be executed again.
 
