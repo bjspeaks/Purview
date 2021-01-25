@@ -15,6 +15,7 @@ When a Purview user registers an ADF to which he/she has access to, the followin
 a.	The ADF MSI gets added to Purview as purview data curator.
 
 ![](https://github.com/bjspeaks/Purview/tree/master/Images/MSI.jpg) 
+
 b.	The ADF needs to be executed again.
 
 c.	Scan/re-scan the data source-destination-which is the target in the ADF.
