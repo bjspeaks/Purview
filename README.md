@@ -1,1 +1,1 @@
-# Purview Code & some details
+# Purview Code & Some Details
