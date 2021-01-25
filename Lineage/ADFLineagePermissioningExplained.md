@@ -9,7 +9,7 @@ Once ADF has been registered successfully, the following will appear on the ADF 
 
 When a Purview user registers an ADF to which he/she has access to, the following happens in the backend:
 
-<img src= "https://github.com/bjspeaks/Purview/tree/master/Images/ADFRegistration.jpg" width="500" height="600">
+(https://github.com/bjspeaks/Purview/tree/master/Images/ADFRegistration.jpg)
 
 a.	The ADF MSI gets added to Purview as purview data curator.
 
