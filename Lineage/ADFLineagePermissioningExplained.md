@@ -18,7 +18,7 @@ a.	The ADF MSI gets added to Purview as purview data curator.
 
 b.	The ADF needs to be executed again.
 
-c.	Scan/re-scan the data source-destination-which is the target in the ADF.
+c.	Post execution the ADF metadata pushed into Purview.
 
 # Conclusion
 
